@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+.title-main{
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.link{
+    display: inline-block;
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding: 0.5rem;
+}
+
+.link:hover {
+    border: 1px solid blue;
+    transition: all 0.5s;
+}
+
+.link-image{
+    height: 30px;
+    margin: 10px; 
+    width: auto;
+}
+
+.row-box{
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+}
