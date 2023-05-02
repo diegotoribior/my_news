@@ -1,5 +1,6 @@
 body{
-    background-color: lightblue;
+    background-image: url('../assets/pattern.svg');
+    background-repeat: repeat;
 }
 .title-main{
     text-align: center;
